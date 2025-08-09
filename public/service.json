@@ -1,0 +1,34 @@
+[
+    {
+     "id": "1",
+      "category": "Lawyer",
+      "totalNumber": "",
+      "img": "https://i.ibb.co/20KL3kfb/success-doctor.png",
+      "number":"197"
+    },
+    {
+      "id": "2",
+      "category": "Reviews",
+      "totalNumber": "",
+      "img": "https://i.ibb.co/0prkNJgv/success-review.png",
+      "number":"600"
+
+    },
+    {
+      "id": "3",
+      "category": "Initiated",
+      "totalNumber": "",
+      "img": "https://i.ibb.co/pBnj9nZy/success-patients.png",
+      "number":"1900"
+
+    },
+    {
+      "id": "4",
+      "category": "Staffs",
+      "totalNumber": "",
+      "img": "https://i.ibb.co/nM8M3zFK/success-staffs.png",
+      "number":"150"
+
+    }
+  ]
+  

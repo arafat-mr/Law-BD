@@ -1,0 +1,4 @@
+li a.active{
+    color: rgb(131, 21, 235);
+    border-bottom: 2px solid rgb(230, 34, 230);
+ }
