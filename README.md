@@ -1,5 +1,5 @@
 # ⚖️ Lawyer Appointment Booking Website
- 
+
 A modern, responsive React app where users can **book appointments with lawyers**, **view lawyer prices**, and **analyze price ratios via graphs** — all managed entirely on the frontend (no backend).
 
 ---
@@ -12,6 +12,13 @@ A modern, responsive React app where users can **book appointments with lawyers*
 - 📱 **Responsive Design:** Styled with Tailwind CSS for all screen sizes.
 - 🔔 **Notifications:** Success/error alerts via React Toastify.
 - ⚡ **Performance:** Lazy loading with React Intersection Observer and smooth UI.
+
+---
+
+## 🔗 Live Demo
+
+Check out the live version here:  
+🌐 [https://velvety-cat-6be241.netlify.app/](https://velvety-cat-6be241.netlify.app/)
 
 ---
 
